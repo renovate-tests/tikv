@@ -21,5 +21,5 @@ git = "https://github.com/tikv/rust-prometheus.git"
 rev = "fd122caa03de8e7e5e4fae9372583aebf19e39f6"
 
 [dev-dependencies]
-byteorder = "1.2"
+byteorder = "1.3"
 
