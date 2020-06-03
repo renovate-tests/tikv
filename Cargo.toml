@@ -71,7 +71,7 @@ configuration = { path = "components/configuration" }
 crc32fast = "1.2"
 crc64fast = "0.1"
 crossbeam = "0.7.2"
-derive_more = "0.99.3"
+derive_more = "0.99.7"
 encryption = { path = "components/encryption" }
 engine = { path = "components/engine" }
 engine_panic = { path = "components/engine_panic", optional = true }
