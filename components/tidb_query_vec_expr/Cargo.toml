@@ -30,7 +30,7 @@ git = "https://github.com/tikv/rust-prometheus.git"
 rev = "fd122caa03de8e7e5e4fae9372583aebf19e39f6"
 
 [dev-dependencies]
-bstr = "0.2.8"
+bstr = "0.2.13"
 chrono = "0.4"
 profiler = { path = "../profiler" }
 panic_hook = { path = "../panic_hook" }

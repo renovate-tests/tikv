@@ -7,7 +7,7 @@ description = "A scalar expression of query engine to run TiDB pushed down execu
 
 [dependencies]
 base64 = "0.12"
-bstr = "0.2.8"
+bstr = "0.2.13"
 byteorder = "1.2"
 
 codec = { path = "../codec" }
