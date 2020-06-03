@@ -35,7 +35,7 @@ testexport = []
 
 [dependencies]
 batch-system = { path = "../batch-system" }
-bitflags = "1.0.1"
+bitflags = "1.2.1"
 byteorder = "1.2"
 configuration = { path = "../configuration" }
 crc32fast = "1.2"
